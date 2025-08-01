@@ -2,6 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+
+## Portfolio -- 
+<img width="842" height="425" alt="image" src="https://github.com/user-attachments/assets/4c6f1ec6-0cfb-4cb1-af67-392903f060b9" />
+
+https://portfolio-git-main-vaibhav-vermas-projects-1c49c7be.vercel.app/
+
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=400></>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamviratvaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="iamviratvaibhav" /> </p>
