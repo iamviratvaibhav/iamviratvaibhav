@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vaibhavverma9595@gmail.com**
 
-- 📄 Experience 1.5 Years FullStack developer  ([https://drive.google.comk]
+- 📄 Experience 1.5+ Years FullStack developer  ([https://drive.google.comk]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
