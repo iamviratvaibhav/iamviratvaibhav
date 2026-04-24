@@ -16,7 +16,7 @@ https://portfolio-git-main-vaibhav-vermas-projects-1c49c7be.vercel.app/
 
 - 📫 How to reach me **vaibhavverma9595@gmail.com**
 
-- 📄 Experience 6 months FullStack developer  ([https://drive.google.com/file/d/15Q1cV1MzEjP_H13e6VxVOcNcZYDL0_Td/view?usp=drive_link](https://drive.google.com/file/d/12wIOLTOOLocg7X3IVOusVYnEE_Abk2ef/view?usp=drive_link)
+- 📄 Experience 1.6 months FullStack developer  ([https://drive.google.com/file/d/15Q1cV1MzEjP_H13e6VxVOcNcZYDL0_Td/view?usp=drive_link](https:///file/d/12wIOLTOOLocg7X3IVOusVYnEE_Abk2ef/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
