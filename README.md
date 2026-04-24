@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 ## Portfolio -- 
-https://portfolio-git-main-vaibhav-vermas-projects-1c49c7be.vercel.app/
+
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=400></>
 
@@ -16,7 +16,7 @@ https://portfolio-git-main-vaibhav-vermas-projects-1c49c7be.vercel.app/
 
 - 📫 How to reach me **vaibhavverma9595@gmail.com**
 
-- 📄 Experience 1.6 months FullStack developer  ([https://drive.google.com/file/d/15Q1cV1MzEjP_H13e6VxVOcNcZYDL0_Td/view?usp=drive_link](https:///file/d/12wIOLTOOLocg7X3IVOusVYnEE_Abk2ef/view?usp=drive_link)
+- 📄 Experience 1.5 Years FullStack developer  ([https://drive.google.comk]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
